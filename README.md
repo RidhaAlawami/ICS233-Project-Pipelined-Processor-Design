@@ -1,5 +1,10 @@
 # ICS233-Project-Pipelined-Processor-Design
 
+# Project Objectives: 
+	• Designing a Pipelined 16-bit MIPS-like processor 
+	• Using Logisim simulator to model and test the processor 
+	• Teamwork practice
+
 # Single-Cycle-Processor
 ![alt text](https://raw.githubusercontent.com/ridhaalawami/ICS233-Project-Pipelined-Processor-Design/master/Imgs/SCP.png)
 

@@ -5,6 +5,13 @@
 	• Using Logisim simulator to model and test the processor 
 	• Teamwork practice
 
+# Repository Contents: 
+	1.Project Description Document
+	2.Project Team Document
+	3.Single Cycle Processor Circuit
+	4.Pipe-lined Processor Circuit
+	5.Tests Cases Files.
+
 # Single-Cycle-Processor
 ![alt text](https://raw.githubusercontent.com/ridhaalawami/ICS233-Project-Pipelined-Processor-Design/master/Imgs/SCP.png)
 
